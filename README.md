@@ -1,2 +1,2 @@
 # hello-world
-first repo
+Hi humans
